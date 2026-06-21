@@ -56,6 +56,10 @@ See [`DISCLAIMER.md`](DISCLAIMER.md) for the full disclaimer.
 
 ## Licence
 
+This repository is published under a custom non-commercial licence.
+
+You may use, copy, and modify the workbook for personal, educational, and non-commercial purposes. Commercial use, resale, redistribution for profit, or inclusion in paid products or services is not permitted without prior written permission from Assegai Studios.
+
 This repository is provided under the terms set out in [`LICENSE.md`](LICENSE.md).
 
 ## Support
